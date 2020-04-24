@@ -1,4 +1,3 @@
 devel/
 build/
-env.sh
 src/my_robot/maps/rtabmap.db
