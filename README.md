@@ -72,8 +72,9 @@ Robot navigation goals are set in the script, where multiple goals can be set. A
 # Install and Run:
 Run the following code to download, install and run the code
 ```
-git clone https//:
-cd hom
+git clone https://github.com/milekium/homeServiceRobot.git
+cd homeServiceRobot
+source env.sh
 catking_make
 ./src/scripts/home_service.sh
 ```
